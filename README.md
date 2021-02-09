@@ -5,7 +5,6 @@
 * [How the game works](#how-the-game-works)
 * [Technologies](#technologies)
 * [Launch](#launch)
-* [Extra](#extra)
 * [Author](#author)
 
 ## Introduction
@@ -59,10 +58,6 @@ Java 14 + Swing
 ## Launch 
 
 Run the 'GameLauncher' class.
-
-## Extra
-
-All the info about conditions in this game you can read here (in polish): https://github.com/apohllo/obiektowe-lab/blob/master/proj2/strzelaninka2d.md.
 
 ## Author
 
