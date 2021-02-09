@@ -1,5 +1,13 @@
 # ShooterGame
 
+## Table of contents
+* [Introduction](#Introduction)
+* [How the game works](#how-the-game-works)
+* [Technologies](#technologies)
+* [Launch](#launch)
+* [Extra](#extra)
+* [Author](#author)
+
 ## Introduction
 
 The ShooterGame is my second project for my java course at my IT studies. It is the 2D shooter game in which you can play singleplayer or multiplayer (offline).
@@ -10,7 +18,7 @@ The ShooterGame is my second project for my java course at my IT studies. It is 
 
 The singleplayer mode consist three levels which every level takes place on different map (House, Storehouse and Desert). 
 
-#### Playey
+#### Player
 
 As a player you can move in four directions and shoot. You have also five hearts (every hit from the enemy takes one heart). If you lose all your hearts you die.
 
