@@ -1,6 +1,6 @@
 # ShooterGame
 
-![] (2dShooterGame.png)
+![](2dShooterGame.png)
 
 ## Table of contents
 * [Introduction](#Introduction)
