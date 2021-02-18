@@ -1,5 +1,7 @@
 # ShooterGame
 
+![github](https://user-images.githubusercontent.com/73038429/108433589-82a41280-7246-11eb-9a33-a235339455aa.PNG)
+
 ## Table of contents
 * [Introduction](#Introduction)
 * [How the game works](#how-the-game-works)
@@ -62,6 +64,4 @@ Run the 'GameLauncher' class.
 ## Author
 
 Adrian Jabłoński
-
-![github](https://user-images.githubusercontent.com/73038429/108433589-82a41280-7246-11eb-9a33-a235339455aa.PNG)
 
